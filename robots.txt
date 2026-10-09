@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cwjone00-pixel.github.io/chto-posmotret-na-hainan/sitemap.xml
